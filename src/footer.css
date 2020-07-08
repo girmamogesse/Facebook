@@ -1,0 +1,20 @@
+#footer1, #footer2 {
+    font-size: 13px;
+    color: #304A96;
+}
+
+a {
+    color: #304A96;
+}
+
+.btn1 {
+    background-color: white;
+    border: 1px solid #9C9C9C;
+    font-size: 20px;
+    font-weight: 1000;
+    line-height: 90%;
+}
+
+.btn1:hover {
+    background-color: #BFBFBF;
+}

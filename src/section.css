@@ -1,0 +1,50 @@
+#section {
+    background-image: linear-gradient(#fefefe, #d5dae9);
+}
+
+h4 {
+    color: #0F2C6F;
+}
+
+#dob, #gen {
+    color: #A0A0A0;
+    font-weight: 500;
+}
+
+img {
+    width: 450px;
+}
+
+select {
+    width: 65px;
+}
+
+span {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1 {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+#agreement_div {
+    font-size: 11px;
+    color: #6A6A6A;
+}
+
+.terms {
+    color: #0C43C1;
+}
+
+.btn {
+    background-color: #48893E;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px solid #535353;
+}
+
+.btn:hover {
+    background-color: #2F7225;
+    color: white;
+}

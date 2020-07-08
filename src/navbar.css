@@ -1,0 +1,21 @@
+input {
+    height: 24px;
+    font-size: 13px;
+    font-weight: bold;
+    border: 0;
+    border-radius: 2px;
+}
+
+.top-td {
+    font-size: 14px;
+}
+
+#btn {
+    background-color: #476CC4;
+    border: 1px solid #2B4990;
+    color: white;
+}
+
+#btn:hover {
+    background-color: #3b5998;
+}
